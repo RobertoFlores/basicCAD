@@ -13,3 +13,6 @@ tweeter @null
 
 RobertRevolver
 tweeter @robertrevolver2
+
+
+Technology: .NET, C#, OpenTK, WPF.
