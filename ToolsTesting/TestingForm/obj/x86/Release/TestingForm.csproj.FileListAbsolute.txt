@@ -1,0 +1,16 @@
+C:\repositores\tt\ToolsTesting\TestingForm\obj\x86\Release\ResolveAssemblyReference.cache
+C:\repositores\tt\ToolsTesting\TestingForm\obj\x86\Release\TestingForm.Properties.Resources.resources
+C:\repositores\tt\ToolsTesting\TestingForm\obj\x86\Release\GenerateResource.read.1.tlog
+C:\repositores\tt\ToolsTesting\TestingForm\obj\x86\Release\GenerateResource.write.1.tlog
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Release\TestingForm.exe
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Release\TestingForm.pdb
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Release\ModelGraphicTool.dll
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Release\OpenTK.Compatibility.dll
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Release\OpenTK.dll
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Release\OpenTK.GLControl.dll
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Release\OpenTK.xml
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Release\OpenTK.Compatibility.xml
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Release\OpenTK.GLControl.xml
+C:\repositores\tt\ToolsTesting\TestingForm\obj\x86\Release\TestingForm.Form1.resources
+C:\repositores\tt\ToolsTesting\TestingForm\obj\x86\Release\TestingForm.exe
+C:\repositores\tt\ToolsTesting\TestingForm\obj\x86\Release\TestingForm.pdb

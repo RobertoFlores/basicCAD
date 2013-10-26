@@ -1,0 +1,7 @@
+C:\evya\desarrollo\repositorios\integralproject\ModelGraphicTool\ModelGraphicTool\bin\Debug\ModelGraphicTool.dll
+C:\evya\desarrollo\repositorios\integralproject\ModelGraphicTool\ModelGraphicTool\bin\Debug\ModelGraphicTool.pdb
+C:\evya\desarrollo\repositorios\integralproject\ModelGraphicTool\ModelGraphicTool\bin\Debug\OpenTK.dll
+C:\evya\desarrollo\repositorios\integralproject\ModelGraphicTool\ModelGraphicTool\bin\Debug\OpenTK.xml
+C:\evya\desarrollo\repositorios\integralproject\ModelGraphicTool\ModelGraphicTool\obj\Debug\ModelGraphicTool.csprojResolveAssemblyReference.cache
+C:\evya\desarrollo\repositorios\integralproject\ModelGraphicTool\ModelGraphicTool\obj\Debug\ModelGraphicTool.dll
+C:\evya\desarrollo\repositorios\integralproject\ModelGraphicTool\ModelGraphicTool\obj\Debug\ModelGraphicTool.pdb

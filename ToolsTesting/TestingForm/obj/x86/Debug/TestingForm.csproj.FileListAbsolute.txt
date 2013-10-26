@@ -1,0 +1,41 @@
+C:\repositores\tt\ToolsTesting\TestingForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\repositores\tt\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.Properties.Resources.resources
+C:\repositores\tt\ToolsTesting\TestingForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\repositores\tt\ToolsTesting\TestingForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Debug\TestingForm.exe
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Debug\TestingForm.pdb
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Debug\ModelGraphicTool.dll
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Debug\OpenTK.Compatibility.dll
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Debug\OpenTK.dll
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Debug\OpenTK.GLControl.dll
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Debug\OpenTK.xml
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Debug\OpenTK.Compatibility.xml
+C:\repositores\tt\ToolsTesting\TestingForm\bin\Debug\OpenTK.GLControl.xml
+C:\repositores\tt\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.Form1.resources
+C:\repositores\tt\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.exe
+C:\repositores\tt\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.pdb
+C:\Proyectos\IP\respaldo julio\repositores\tt\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.exe
+C:\Proyectos\IP\respaldo julio\repositores\tt\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.pdb
+C:\Proyectos\IP\respaldo julio\repositores\tt\ToolsTesting\TestingForm\bin\Debug\TestingForm.exe
+C:\Proyectos\IP\respaldo julio\repositores\tt\ToolsTesting\TestingForm\bin\Debug\TestingForm.pdb
+C:\Proyectos\IP\respaldo julio\repositores\tt\ToolsTesting\TestingForm\bin\Debug\OpenTK.xml
+C:\Proyectos\IP\respaldo julio\repositores\tt\ToolsTesting\TestingForm\bin\Debug\OpenTK.Compatibility.xml
+C:\Proyectos\IP\respaldo julio\repositores\tt\ToolsTesting\TestingForm\bin\Debug\OpenTK.GLControl.xml
+C:\Proyectos\IP\respaldo julio\repositores\tt\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.csprojResolveAssemblyReference.cache
+C:\Proyectos\IP\respaldo julio\repositores\tt\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.Form1.resources
+C:\Proyectos\IP\respaldo julio\repositores\tt\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.Properties.Resources.resources
+C:\Proyectos\IP\respaldo julio\repositores\tt\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.csproj.GenerateResource.Cache
+C:\evya\desarrollo\repositorios\github\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.exe
+C:\evya\desarrollo\repositorios\github\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.pdb
+C:\evya\desarrollo\repositorios\github\ToolsTesting\TestingForm\bin\Debug\TestingForm.exe
+C:\evya\desarrollo\repositorios\github\ToolsTesting\TestingForm\bin\Debug\TestingForm.pdb
+C:\evya\desarrollo\repositorios\github\ToolsTesting\TestingForm\bin\Debug\OpenTK.Compatibility.dll
+C:\evya\desarrollo\repositorios\github\ToolsTesting\TestingForm\bin\Debug\OpenTK.dll
+C:\evya\desarrollo\repositorios\github\ToolsTesting\TestingForm\bin\Debug\OpenTK.GLControl.dll
+C:\evya\desarrollo\repositorios\github\ToolsTesting\TestingForm\bin\Debug\OpenTK.xml
+C:\evya\desarrollo\repositorios\github\ToolsTesting\TestingForm\bin\Debug\OpenTK.Compatibility.xml
+C:\evya\desarrollo\repositorios\github\ToolsTesting\TestingForm\bin\Debug\OpenTK.GLControl.xml
+C:\evya\desarrollo\repositorios\github\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.csprojResolveAssemblyReference.cache
+C:\evya\desarrollo\repositorios\github\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.Form1.resources
+C:\evya\desarrollo\repositorios\github\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.Properties.Resources.resources
+C:\evya\desarrollo\repositorios\github\ToolsTesting\TestingForm\obj\x86\Debug\TestingForm.csproj.GenerateResource.Cache
