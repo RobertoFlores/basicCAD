@@ -15,4 +15,4 @@ RobertRevolver
 tweeter @robertrevolver2
 
 
-Technology: .NET, C#, OpenTK, WPF.
+Technology: .NET, C#, OpenTK, WPF. IDE Visual Studio 2012
