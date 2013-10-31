@@ -18,7 +18,16 @@ using OpenTK.Graphics.OpenGL;
 using OpenTK.Graphics.ES10;
 using OpenTK;
 
-
+    /******************************
+         *      TESTING FORM
+         *      
+         *      This Form provides a proper initial OpenTK configuration of a spatial plane, animation and mouse/keyboard interaction
+		 * 		for easy and fast test and tools development. Enjoy!	
+         *      
+         *      M.I. Luis Rodríguez Gil
+         *      Jan / 25th / 2013
+         *      
+         * ***************************/
 namespace TestingForm
 {
     public partial class Form1 : Form

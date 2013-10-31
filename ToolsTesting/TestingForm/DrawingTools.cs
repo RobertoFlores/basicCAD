@@ -7,7 +7,15 @@ using System.Drawing;
 using OpenTK;
 using OpenTK.Graphics.OpenGL;
 
-
+    /******************************
+         *      DRAWINGTOOLS
+         *      
+         *      Classes set for drawing tools development 
+         *      
+         *      M.I. Luis Rodríguez Gil
+         *      Jan / 25th / 2013
+         *      
+         * ***************************/
 namespace DrawingTools
 {
     class VirtualPoint
