@@ -9,7 +9,6 @@ LaroGil
 tweeter @imLarogil
 
 Roberto Brito
-tweeter @null
 
 RobertRevolver
 tweeter @robertrevolver2
